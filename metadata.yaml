@@ -1,0 +1,35 @@
+_repo: The-History-of-Troilus-and-Cressida_1528
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: It is the seventh year of the Trojan War. The Greek army is camped outside
+  Troy and Achilles - their military hero - refuses to fight. Inside the city Troilus,
+  the Trojan King's son, falls in love with Cressida, whose father has defected to
+  the Greek camp. In an exchange of prisoners the couple are split - they believe
+  forever. The honour of lovers and soldiers is tested as a fierce battle begins and
+  heroes must prove their worth.
+gutenberg_issued: '1998-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragicomedy'
+- !lcsh 'Cressida (Fictitious character) -- Drama'
+- !lcsh 'Troy (Extinct city) -- Drama'
+- !lcsh 'Troilus (Legendary character) -- Drama'
+- !lcc 'PR'
+- !lcsh 'Trojan War -- Drama'
+title: The History of Troilus and Cressida
+url: http://www.gutenberg.org/ebooks/1528
