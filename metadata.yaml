@@ -1,5 +1,8 @@
 _repo: The-History-of-Troilus-and-Cressida_1528
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -17,6 +20,8 @@ description: It is the seventh year of the Trojan War. The Greek army is camped 
   the Greek camp. In an exchange of prisoners the couple are split - they believe
   forever. The honour of lovers and soldiers is tested as a fierce battle begins and
   heroes must prove their worth.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1528#The-History-of-Troilus-and-Cressida
 gutenberg_issued: '1998-11-01'
 gutenberg_type: Text
 identifiers:
