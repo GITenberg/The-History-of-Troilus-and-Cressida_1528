@@ -1,5 +1,5 @@
 _repo: The-History-of-Troilus-and-Cressida_1528
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'Troilus (Legendary character) -- Drama'
 - !lcc 'PR'
 - !lcsh 'Trojan War -- Drama'
+- GITenberg
 title: The History of Troilus and Cressida
 url: http://www.gutenberg.org/ebooks/1528
